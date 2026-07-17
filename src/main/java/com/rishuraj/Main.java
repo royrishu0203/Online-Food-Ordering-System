@@ -2,7 +2,7 @@ package com.rishuraj;
 import com.rishuraj.model.*;
 import com.rishuraj.service.*;
 
-import java.util.Scanner;
+import java.util.*;
 public class Main {
 
     static Scanner sc = new Scanner(System.in);

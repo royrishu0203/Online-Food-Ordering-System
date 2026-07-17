@@ -2,6 +2,21 @@
 
 A Java console-based application developed using Java, JDBC, and MySQL for managing an online food ordering system. The project demonstrates database connectivity, object-oriented programming, and CRUD operations through a menu-driven interface.
 
+##  Application Screenshots
+
+|                     Main Menu                     |                  Restaurant Management                  |                  Food Management                  |                       Place Order                       |
+|:-------------------------------------------------:|:-------------------------------------------------------:|:-------------------------------------------------:|:-------------------------------------------------------:|
+| <img src="screenshots/main-menu.png" width="300"> | <img src="screenshots/main-restaurant.png" width="300"> | <img src="screenshots/main-food.png" width="300"> | <img src="screenshots/main-placeorder.png" width="300"> |
+
+---
+
+---
+## Badges 
+![Java](https://img.shields.io/badge/Java-23-orange)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue)
+![JDBC](https://img.shields.io/badge/JDBC-Connector-green)
+![Maven](https://img.shields.io/badge/Maven-Build-red)
+
 ## Features
 
 - User Management
@@ -46,6 +61,16 @@ This project was developed to strengthen my understanding of Java, JDBC, MySQL, 
 5. Run `Main.java`.
 
 ---
+
+## What I Learned
+
+- Built a Java application using JDBC and MySQL
+- Performed CRUD operations using PreparedStatement
+- Designed a relational database with foreign keys
+- Implemented order placement with automatic ID generation
+- Used Git and GitHub for version control
+- Organized the project using models and service classes
+
 ## Future Improvements
 
 - Develop a web-based version using Spring Boot and REST APIs.
